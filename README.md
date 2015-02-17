@@ -1,8 +1,8 @@
-# Hard Mode without the framework
+## Hard Mode without the framework
 
-#Calculator1.py is the app code and templates/calculator.html is the html.
+Calculator1.py is the app code and templates/calculator.html is the html.
 
-# Hard Mode with the framework
+## Hard Mode with the framework
 
 calc_css.py is the app code and index.html is the html with the css framework.
 
