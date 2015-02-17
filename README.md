@@ -1,3 +1,13 @@
+# Hard Mode without the framework
+
+#Calculator1.py is the app code and templates/calculator.html is the html.
+
+# Hard Mode with the framework
+
+calc_css.py is the app code and index.html is the html with the css framework.
+
+Failed miserably.  I got the css code to look kind of ok (not great but ok) but I would get a 404 error when the framework makes a call to .js files that I had but the framework could not seem to find  (I gave up)
+
 # Web calculator
 
 ## Description
